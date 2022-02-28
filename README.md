@@ -77,9 +77,9 @@ In de uitgewerkte opdracht moeten minimaal zitten:
 
 ## Moeilijkere vragen
 
-Zijn er in deze opdracht mogelijkheden voor een `abstracte klasse`? 
-Zijn er in deze opdracht mogelijkheden voor `abstracte methodes`?
-Is het mogelijk om een `Pokemon` 2 types mee te geven?
+- Zijn er in deze opdracht mogelijkheden voor een `abstracte klasse`? 
+- Zijn er in deze opdracht mogelijkheden voor `abstracte methodes`?
+- Is het mogelijk om een `Pokemon` 2 types mee te geven?
 
 
 
